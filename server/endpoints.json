@@ -1,0 +1,8 @@
+{
+    "example": {
+        "url": "/api",
+        "params": {
+            "method": "GET"
+        }
+    }
+}
